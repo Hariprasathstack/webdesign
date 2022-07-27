@@ -1,0 +1,30 @@
+body
+{
+    background-color:darkgrey;
+}
+.fa
+{
+    color :rgba(21, 85, 182, 0.63);
+}
+.box-part
+{
+    background-color: whitesmoke;
+    padding: 30px 10px;
+    margin: 20px 0px;
+}
+span
+{
+    font-size: 10px;
+}
+.text
+{
+    margin: 10px 0px;
+}
+a
+{
+    border-bottom: 1px solid ;
+}
+.box
+{
+    padding: 40px 10px;
+}
